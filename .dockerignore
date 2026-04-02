@@ -1,0 +1,11 @@
+/vendor
+/.git
+/.env
+/node_modules
+/storage/*.key
+/public/hot
+/public/storage
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
